@@ -13,7 +13,7 @@
 ```csharp
 class Developer 
 {
-    string Name = "M1G-L";
+    string Name = "Miguel";
     string[] Skills = { "C", "C#", "WinForms" };
     string CurrentlyLearning = "WPF";
     string CurrentProject = "Windows post-install configuration tool";
