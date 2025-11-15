@@ -10,12 +10,19 @@
 
 ### 👨‍💻 About Me
 
-I'm a desktop application developer passionate about creating efficient, high-performance Windows tools. My focus is on system optimization and building polished user experiences with modern .NET technologies.
+```csharp
+class Developer 
+{
+    string Name = "M1G-L";
+    string[] Skills = { "C", "C#", "WinForms" };
+    string CurrentlyLearning = "WPF";
+    string CurrentProject = "Windows post-install configuration tool";
+}
+```
 
-- 🔨 **Core Skills**: C, C#, WinForms, and .NET development
-- 📖 **Currently Exploring**: WPF, MVVM architecture, and advanced UI/UX patterns
-- 🎯 **Mission**: Developing tools that enhance system performance and user productivity
-- 💡 **Interests**: Low-level system operations, performance optimization, and clean architecture
+- 💻 Working with **C**, **C#**, and **WinForms**
+- 📚 Learning **WPF**
+- 🔧 Building a WPF app for Windows configuration after clean installs
 
 ---
 
