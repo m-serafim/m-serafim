@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=m-serafim&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Desktop%20Developer%20%7C%20System%20Optimizer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF,21C6C9&height=180&section=header&text=m-serafim&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Desktop%20Developer%20%7C%20System%20Optimizer&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ class Developer
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF,21C6C9&height=100&section=footer" />
 </p>
 
 <p align="center">
