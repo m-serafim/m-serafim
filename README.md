@@ -11,20 +11,26 @@
 ### 👨‍💻 About Me
 
 <p align="center">
-  <img src="./terminal-about.svg" alt="About Me - Terminal Style" width="100%" />
+  <img src="https://raw.githubusercontent.com/m-serafim/m-serafim/main/github_stats.svg" alt="GitHub Terminal Stats" width="100%" />
 </p>
 
----
+<div align="center">
 
-### 📊 GitHub Stats & Streak
+```csharp
+class Developer 
+{
+    string Name = "Miguel";
+    string[] Skills = { "C", "C#", "WinForms" };
+    string CurrentlyLearning = "WPF";
+    string CurrentProject = "Windows post-install configuration tool";
+}
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-serafim&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub Streak Stats" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-serafim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
+- 💻 Working with **C**, **C#**, and **WinForms**
+- 📚 Learning **WPF**
+- 🔧 Building a WPF app for Windows configuration after clean installs
 
 ---
 

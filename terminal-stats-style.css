@@ -1,0 +1,31 @@
+/* Custom Black and Blue Terminal Theme */
+.terminal-window {
+  background-color: #0D1117 !important;
+  border: 2px solid #58A6FF !important;
+}
+
+.terminal-header {
+  background-color: #161B22 !important;
+}
+
+.terminal-body {
+  background-color: #0D1117 !important;
+  color: #58A6FF !important;
+}
+
+.terminal-prompt {
+  color: #7ee787 !important;
+}
+
+.terminal-output {
+  color: #58A6FF !important;
+}
+
+.stat-label {
+  color: #8b949e !important;
+}
+
+.stat-value {
+  color: #58A6FF !important;
+  font-weight: bold !important;
+}
