@@ -10,9 +10,33 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <img src="./terminal-about.svg" alt="About Me - Terminal Style" width="100%" />
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```csharp
+class Developer 
+{
+    string Name = "Miguel";
+    string[] Skills = { "C", "C#", "WinForms" };
+    string CurrentlyLearning = "WPF";
+    string CurrentProject = "Windows post-install configuration tool";
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**💻 Working with C, C#, and WinForms**  
+**📚 Learning WPF**  
+**🔧 Building a WPF app for Windows configuration after clean installs**
+
+</div>
 
 ---
 
