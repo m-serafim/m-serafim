@@ -8,23 +8,33 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 About Me - Terminal Style
 
 <p align="center">
-  <img src="./terminal-about.svg" alt="About Me - Terminal Style" width="100%" />
+  <img src="https://github-readme-terminal-ayzbvpexq-yogeshwaran01s-projects.vercel.app/api?user=m-serafim&theme=default&color_scheme=dark&color=58A6FF&background=0D1117" alt="GitHub Terminal Stats" width="100%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streak
+### 💼 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-serafim&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub Streak Stats" />
-</p>
+```csharp
+class Developer 
+{
+    string Name = "Miguel";
+    string[] Skills = { "C", "C#", "WinForms" };
+    string CurrentlyLearning = "WPF";
+    string CurrentProject = "Windows post-install configuration tool";
+}
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-serafim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" alt="GitHub Stats" />
-</p>
+<div align="center">
+
+💻 **Working with:** C, C#, and WinForms  
+📚 **Learning:** WPF for modern Windows apps  
+🔧 **Building:** Efficient Windows configuration tools
+
+</div>
 
 ---
 
