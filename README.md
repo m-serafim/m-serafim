@@ -24,37 +24,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
 </picture>
 
----
 
-### ⭐ Featured Project
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🚀 Nexor Optimizer</h3>
-      <p align="center">
-        <a href="https://github.com/m-serafim/Nexor-Optimizer" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-serafim&repo=Nexor-Optimizer&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF" />
-        </a>
-      </p>
-      <p align="center">
-        A comprehensive Windows optimization suite built with C#. Features system tweaks, performance enhancements, and registry optimization in a sleek, modern interface.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://steamcommunity.com/id/M1G-L/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a2b8,100:0d6efd&height=100&section=footer" />
