@@ -8,33 +8,11 @@
 
 ---
 
-### 👨‍💻 About Me - Terminal Style
+### 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://github-readme-terminal-ayzbvpexq-yogeshwaran01s-projects.vercel.app/api?user=m-serafim&theme=default&color_scheme=dark&color=58A6FF&background=0D1117" alt="GitHub Terminal Stats" width="100%" />
+  <img src="./terminal-about.svg" alt="About Me - Terminal Style" width="100%" />
 </p>
-
----
-
-### 💼 Current Focus
-
-```csharp
-class Developer 
-{
-    string Name = "Miguel";
-    string[] Skills = { "C", "C#", "WinForms" };
-    string CurrentlyLearning = "WPF";
-    string CurrentProject = "Windows post-install configuration tool";
-}
-```
-
-<div align="center">
-
-💻 **Working with:** C, C#, and WinForms  
-📚 **Learning:** WPF for modern Windows apps  
-🔧 **Building:** Efficient Windows configuration tools
-
-</div>
 
 ---
 
