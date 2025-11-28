@@ -1,145 +1,83 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='800' height='500' viewBox='0 0 800 500'>
+<svg xmlns='http://www.w3.org/2000/svg' width='700' height='320' viewBox='0 0 700 320'>
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&amp;display=swap');
-    
-    .terminal-bg {
-      fill: #0D1117;
-    }
-    
-    .terminal-header {
-      fill: #161B22;
-    }
-    
     .terminal-text {
-      font-family: 'Fira Code', monospace;
-      font-size: 16px;
-      fill: #58A6FF;
-    }
-    
-    .prompt {
-      fill: #7ee787;
-      font-weight: 700;
-    }
-    
-    .keyword {
-      fill: #ff7b72;
-      font-weight: 700;
-    }
-    
-    .string {
-      fill: #a5d6ff;
-    }
-    
-    .comment {
-      fill: #8b949e;
-      font-style: italic;
-    }
-    
-    .cursor {
-      animation: blink 1s step-end infinite;
-    }
-    
-    @keyframes blink {
-      50% {
-        opacity: 0;
-      }
+      font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', 'Consolas', monospace;
+      font-size: 15px;
     }
   </style>
   
-  <!-- Terminal window background -->
-  <rect class='terminal-bg' width='800' height='500' rx='10'/>
+  <!-- Terminal background - Black -->
+  <rect width='700' height='320' rx='10' fill='#0D1117'/>
   
-  <!-- Terminal header -->
-  <rect class='terminal-header' width='800' height='40' rx='10'/>
-  <rect class='terminal-bg' y='40' width='800' height='460'/>
+  <!-- Terminal header - Dark gray -->
+  <rect width='700' height='35' rx='10' fill='#30363d'/>
+  <rect y='35' width='700' height='285' fill='#0D1117'/>
   
-  <!-- Window buttons -->
-  <circle cx='20' cy='20' r='6' fill='#ff5f56'/>
-  <circle cx='45' cy='20' r='6' fill='#ffbd2e'/>
-  <circle cx='70' cy='20' r='6' fill='#27c93f'/>
+  <!-- Window control buttons -->
+  <circle cx='20' cy='17' r='6' fill='#ff5f56'/>
+  <circle cx='45' cy='17' r='6' fill='#ffbd2e'/>
+  <circle cx='70' cy='17' r='6' fill='#27c93f'/>
   
   <!-- Terminal title -->
-  <text x='400' y='27' font-family='"Fira Code", monospace' font-size='14' fill='#8b949e' text-anchor='middle'>
-    m-serafim@github: ~
+  <text x='350' y='23' class='terminal-text' font-size='13' fill='#8b949e' text-anchor='middle'>
+    m-serafim@github: ~/about-me
   </text>
   
-  <!-- Terminal content -->
-  <text x='30' y='80' class='terminal-text'>
-    <tspan class='prompt'>m-serafim@github</tspan>
-    <tspan fill='#ffffff'>:~$ </tspan>
-    <tspan>cat about-me.cs</tspan>
+  <!-- Code content with blue theme -->
+  <text x='25' y='70' class='terminal-text' fill='#58A6FF'>
+    <tspan fill='#ff7b72' font-weight='bold'>class</tspan>
+    <tspan fill='#58A6FF'> Developer </tspan>
   </text>
   
-  <text x='30' y='120' class='terminal-text'>
-    <tspan class='comment'>// Developer Profile</tspan>
-  </text>
-  
-  <text x='30' y='150' class='terminal-text'>
-    <tspan class='keyword'>class</tspan>
-    <tspan> Developer</tspan>
-  </text>
-  
-  <text x='30' y='180' class='terminal-text'>
+  <text x='25' y='95' class='terminal-text' fill='#58A6FF'>
     <tspan>{</tspan>
   </text>
   
-  <text x='60' y='210' class='terminal-text'>
-    <tspan class='keyword'>string</tspan>
+  <text x='55' y='120' class='terminal-text' fill='#58A6FF'>
+    <tspan fill='#ff7b72' font-weight='bold'>string</tspan>
     <tspan> Name = </tspan>
-    <tspan class='string'>"Miguel"</tspan>
+    <tspan fill='#a5d6ff'>"Miguel"</tspan>
     <tspan>;</tspan>
   </text>
   
-  <text x='60' y='240' class='terminal-text'>
-    <tspan class='keyword'>string[]</tspan>
+  <text x='55' y='145' class='terminal-text' fill='#58A6FF'>
+    <tspan fill='#ff7b72' font-weight='bold'>string[]</tspan>
     <tspan> Skills = { </tspan>
-    <tspan class='string'>"C"</tspan>
+    <tspan fill='#a5d6ff'>"C"</tspan>
     <tspan>, </tspan>
-    <tspan class='string'>"C#"</tspan>
+    <tspan fill='#a5d6ff'>"C#"</tspan>
     <tspan>, </tspan>
-    <tspan class='string'>"WinForms"</tspan>
+    <tspan fill='#a5d6ff'>"WinForms"</tspan>
     <tspan> };</tspan>
   </text>
   
-  <text x='60' y='270' class='terminal-text'>
-    <tspan class='keyword'>string</tspan>
+  <text x='55' y='170' class='terminal-text' fill='#58A6FF'>
+    <tspan fill='#ff7b72' font-weight='bold'>string</tspan>
     <tspan> CurrentlyLearning = </tspan>
-    <tspan class='string'>"WPF"</tspan>
+    <tspan fill='#a5d6ff'>"WPF"</tspan>
     <tspan>;</tspan>
   </text>
   
-  <text x='60' y='300' class='terminal-text'>
-    <tspan class='keyword'>string</tspan>
+  <text x='55' y='195' class='terminal-text' fill='#58A6FF'>
+    <tspan fill='#ff7b72' font-weight='bold'>string</tspan>
     <tspan> CurrentProject = </tspan>
-    <tspan class='string'>"Windows post-install tool"</tspan>
+    <tspan fill='#a5d6ff'>"Windows post-install tool"</tspan>
     <tspan>;</tspan>
   </text>
   
-  <text x='30' y='330' class='terminal-text'>
+  <text x='25' y='220' class='terminal-text' fill='#58A6FF'>
     <tspan>}</tspan>
   </text>
   
-  <text x='30' y='370' class='terminal-text'>
-    <tspan class='prompt'>m-serafim@github</tspan>
-    <tspan fill='#ffffff'>:~$ </tspan>
-    <tspan>echo "Current Focus"</tspan>
-  </text>
+  <!-- Separator line - dark gray -->
+  <line x1='25' y1='240' x2='675' y2='240' stroke='#30363d' stroke-width='1'/>
   
-  <text x='30' y='400' class='terminal-text'>
+  <!-- Info bullets -->
+  <text x='25' y='265' class='terminal-text' font-size='14' fill='#58A6FF'>
     <tspan>💻 Working with C, C#, and WinForms</tspan>
   </text>
   
-  <text x='30' y='430' class='terminal-text'>
-    <tspan>📚 Learning WPF for modern Windows applications</tspan>
-  </text>
-  
-  <text x='30' y='460' class='terminal-text'>
-    <tspan>🔧 Building efficient Windows configuration tools</tspan>
-  </text>
-  
-  <text x='30' y='490' class='terminal-text'>
-    <tspan class='prompt'>m-serafim@github</tspan>
-    <tspan fill='#ffffff'>:~$ </tspan>
-    <tspan class='cursor'>█</tspan>
+  <text x='25' y='288' class='terminal-text' font-size='14' fill='#58A6FF'>
+    <tspan>📚 Learning WPF  •  🔧 Building Windows configuration tools</tspan>
   </text>
 </svg>
