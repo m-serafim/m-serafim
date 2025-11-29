@@ -2,9 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a2b8,100:0d6efd&height=180&section=header&text=m-serafim&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=55&descSize=20" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab. com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+powerful+Windows+tools;Mastering+WPF+and+C%23;Creating+efficient+solutions" />
-</p>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Crafting+elegant+Windows+desktop+applications;Working+on+Nexor+Optimizer;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
+
+</div>
+
+<br>
 
 ---
 
@@ -35,6 +39,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" alt="Windows">
 </p>
+
+---
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-serafim&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&border_radius=10" />
+</div>
 
 ---
 
