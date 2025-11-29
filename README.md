@@ -20,17 +20,20 @@
 
 <p align="center">
 <!-- Languages -->
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="60" alt="C#/.NET">
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60" alt="TypeScript">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" alt="HTML5">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60" alt="CSS3">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" alt="JavaScript">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" width="60" alt="PowerShell">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="60" alt="PowerShell">
+<!-- Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" alt=".NET Core">
 <!-- Tools -->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60" alt="VS Code">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="60" alt="Visual Studio">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" alt="GitHub">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60" alt="Windows">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" alt="Visual Studio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" alt="Windows">
 </p>
 
 ---
