@@ -19,15 +19,18 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<!-- Languages -->
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="60" alt="C#/.NET">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="60" alt="TypeScript">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" alt="HTML5">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="60" alt="CSS3">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="60" alt="JavaScript">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" width="60" alt="PowerShell">
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60" alt="VS Code">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" width="60" alt="Visual Studio">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60" alt="GitHub">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60" alt="Windows">
 </p>
 
 ---
