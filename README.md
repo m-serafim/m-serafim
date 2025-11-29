@@ -45,7 +45,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=m-serafim&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=m-serafim&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=c9d1d9&border_radius=10" />
 </div>
 
 ---
