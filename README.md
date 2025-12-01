@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a2b8,100:0d6efd&height=180&section=header&text=m-serafim&fontColor=FFFFFF&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Developer%20%7C%20Builder%20%7C%20Creator&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1565c0&height=180&section=header" />
 </p>
+
+<div style="background-color: #000000; padding: 20px;">
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Crafting+elegant+Windows+desktop+applications;Working+on+Nexor+Optimizer;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=900&lines=Crafting+elegant+Windows+desktop+applications;Working+on+Nexor+Optimizer;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +14,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### <span style="color: #58A6FF;">💠 About Me</span>
 
 <p align="center">
   <img src="./terminal-about.svg" alt="About Me - Terminal Style" width="100%" />
@@ -20,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### <span style="color: #58A6FF;">🔷 Tech Stack</span>
 
 <p align="center">
 <!-- Languages -->
@@ -42,7 +44,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+### <span style="color: #58A6FF;">💎 GitHub Streak</span>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=m-serafim&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&border_radius=10" />
@@ -50,7 +52,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### <span style="color: #58A6FF;">🔹 Contribution Snake</span>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake-dark.svg">
@@ -61,8 +63,10 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17a2b8,100:0d6efd&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1565c0&height=100&section=footer" />
 </p>
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=m-serafim&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
