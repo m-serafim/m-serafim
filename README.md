@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=900&lines=Crafting+elegant+Windows+desktop+applications;Working+on+Nexor+Optimizer;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=900&lines=Crafting+elegant+Windows+development+solutions;Passionate+about+system-level+programming;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -47,7 +47,7 @@
 ### <span style="color: #58A6FF;">💎 GitHub Streak</span>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=m-serafim&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=m-serafim&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&stroke=58A6FF" alt="GitHub Streak Stats" />
 </div>
 
 ---
