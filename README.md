@@ -1,63 +1,75 @@
-<![CDATA[<h1 align="center">Hi 👋, I'm Matheus Serafim</h1>
-<h3 align="center">A passionate Full Stack Developer from Brazil 🇧🇷</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1565c0&height=180&section=header" />
+</p>
+
+<div style="background-color: #000000; padding: 20px;">
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=1E88E5&center=true&vCenter=true&width=900&lines=Crafting+elegant+Windows+desktop+applications;Working+on+Nexor+Optimizer;Building+the+future+one+commit+at+a+time)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+---
+
+### <span style="color: #58A6FF;">💠 About Me</span>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-serafim&label=Profile%20views&color=0e75b6&style=flat" alt="m-serafim" />
+  <img src="./terminal-about.svg" alt="About Me - Terminal Style" width="100%" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### <span style="color: #58A6FF;">🔷 Tech Stack</span>
 
-- 🔭 I'm currently working on **Full Stack Development Projects**
-- 🌱 I'm currently learning **Advanced React, Node.js, and Cloud Technologies**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- 📫 How to reach me: **matheusserafim.dev@gmail.com**
-- ⚡ Fun fact: **I love solving complex problems and learning new technologies**
-
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+<p align="center">
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" alt="JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="60" alt="PowerShell">
+<!-- Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" alt=".NET Core">
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" alt="VS Code">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="60" alt="Visual Studio">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" alt="Windows">
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### <span style="color: #58A6FF;">💎 GitHub Streak</span>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-serafim&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&stroke=58A6FF" alt="m-serafim" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-serafim&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58A6FF&icon_color=58A6FF&text_color=ffffff" alt="m-serafim" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-serafim&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=58A6FF&text_color=ffffff&layout=compact" alt="m-serafim" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=m-serafim&theme=dark&hide_border=true&background=000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF&stroke=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&border_radius=10" />
+</div>
 
 ---
 
-### 🤝 Connect with Me
+### <span style="color: #58A6FF;">🔹 Contribution Snake</span>
 
-<p align="left">
-<a href="https://linkedin.com/in/matheus-serafim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-serafim" height="30" width="40" /></a>
-</p>]]>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m-serafim/m-serafim/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1565c0&height=100&section=footer" />
+</p>
+
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-serafim&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
+<!-- streak keep-alive -->
+<!-- streak keep-alive -->
